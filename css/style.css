@@ -4,6 +4,14 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+.carrousel-indicator li{
+  background-color: var(--Laranja);
+}
+
+
+
+
  .py-32{
   padding-bottom: 1 rem; 
  }
@@ -49,135 +57,7 @@
  .margin-12{
   margin-top: auto;
  }
-#carousel-almofada1{
-  background-image:url(../images/ALMOFADAS\ 1.jpeg);
-  background-size: 100% 100%;
-}
 
-}
-#carousel-almofada2{
-  background-image:url(../images/ALMOFADAS\ 2.jpeg);
-  background-size: 100% 100%;
-}
-
-}
-#carousel-almofada3{
-  background-image:url(../images/ALMOFADAS\ 3.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-cabeceira1{
-  background-image:url(../images/CABECEIRAS\ 1.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-cabeceira2{
-  background-image:url(../images/CABECEIRAS\ 2.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-cabeceira3{
-  background-image:url(../images/CABECEIRAS\ 3.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-cortinas1{
-  background-image:url(../images/CORTINAS\ 1.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-cortinas2{
-  background-image:url(../images/CORTINAS\ 2.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-cortinas3{
-  background-image:url(../images/CORTINAS\ 3.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-papeldeparede1{
-  background-image:url(../images/PAPEL\ DE\ PAREDE\ 1.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-papeldeparede2{
-  background-image:url(../images/PAPEL\ DE\ PAREDE\ 2.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-papeldeparede3{
-  background-image:url(../images/PAPEL\ DE\ PAREDE\ 3.jpeg);
-  background-size: 100% 100%;
-}
-
-
-#carousel-persiana1{
-  background-image:url(../images/PERSIANAS\ 1.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-persiana2{
-  background-image:url(../images/PERSIANAS\ 2.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-persiana3{
-  background-image:url(../images/PERSIANAS\ 3.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-tapetes1{
-  background-image:url(../images/TAPETES\ 1.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-tapetes2{
-  background-image:url(../images/TAPETES\ 2.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-tapetes3{
-  background-image:url(../images/TAPETES\ 3.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-tapeteslavaveis1{
-  background-image:url(../images/TAPETES\ LAVAVEIS\ 1.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-tapeteslavaveis2{
-  background-image:url(../images/TAPETES\ LAVAVEIS\ 2.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-tapeteslavaveis3{
-  background-image:url(../images/TAPETES\ LAVAVEIS\ 3.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-tecido1{
-  background-image:url(../images/TECIDOS\ 1.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-tecido2{
-  background-image:url(../images/TECIDOS\ 2.jpeg);
-  background-size: 100% 100%;
-}
-#carousel-tecido3{
-  background-image:url(../images/TECIDOS\ 3.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-toldos1{
-  background-image:url(../images/TOLDO\ 1.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-toldos2{
-  background-image:url(../images/TOLDO\ 2.jpeg);
-  background-size: 100% 100%;
-}
-
-#carousel-toldos3{
-  background-image:url(../images/TOLDO\ 3.jpeg);
-  background-size: 100% 100%;
-}
 /*
 #carousel-img2{
   background-image:url(../images/papeisDeparede.JPG);
@@ -10095,4 +9975,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+
+
 
